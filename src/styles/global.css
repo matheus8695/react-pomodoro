@@ -22,6 +22,7 @@ body {
     "Helvetica Neue",
     sans-serif;
   font-size: 1.6rem; /* 16px */
+  font-weight: 500;
   background: var(--gray-900);
   color: var(--text-default);
 }
