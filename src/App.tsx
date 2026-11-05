@@ -7,9 +7,9 @@ import { DefaultInput } from "./components/DefaultInput";
 import { Logo } from "./components/Logo";
 import { Menu } from "./components/Menu";
 
+import { Footer } from "./components/Footer";
 import "./styles/global.css";
 import "./styles/themes.css";
-import { Footer } from "./components/Footer";
 
 export function App() {
   return (
